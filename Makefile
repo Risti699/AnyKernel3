@@ -1,8 +1,8 @@
-NAME ?= VanadiumKernel
+NAME ?= JFLA-Miui
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 9.0-onclite
+CODE := onclite/onc
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
