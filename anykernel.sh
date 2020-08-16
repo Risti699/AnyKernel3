@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=VanadiumKernel+ by malvigagan @ xda-developers
+kernel.string=JFLA-Miui by @kaguyaasama @Telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
