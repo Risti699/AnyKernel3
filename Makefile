@@ -1,4 +1,4 @@
-NAME ?= JandaX-Gisella-Lv.1
+NAME ?= Rad-x1.4
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
