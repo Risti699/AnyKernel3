@@ -1,4 +1,4 @@
-NAME ?= JandaX-MIUI-Gisella-v1.2
+NAME ?= JandaX[MIUI]-Gisella-v1.2
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
