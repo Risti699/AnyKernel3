@@ -2,7 +2,7 @@ NAME ?= ShirakamiFubuki-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := onclite
+CODE := mido
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
